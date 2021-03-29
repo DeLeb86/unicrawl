@@ -14,7 +14,7 @@ extended to other countries.
 The tool is composed of three main parts:
 - [Crawling](src/crawl/README.md)
 - [Scoring](src/score/README.md)
-- [Web UI](src/web-ui/README.md)
+- [Web UI](docs/web-ui/README.md)
 
 described in their respective READMEs.
   
